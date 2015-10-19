@@ -51,7 +51,7 @@ Drop us an email at info@linkpizza and we'll get you set up.
 When you've activated your account and enabled the plugin find an outgoing link ( internal links are ignored ) and right click, if you check again the url at the bottom should now look like http://pzz.to/someId
 
 == Screenshots ==
-Test your links for monitization by pasting the link
+1. Test your links for monitization by pasting the link
 
 == Changelog ==
 
