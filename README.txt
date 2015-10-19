@@ -42,12 +42,15 @@ Some of the networks include: Zanox, Daisycon, Affiliate4You, Tradetracker and v
 
 == Frequently Asked Questions ==
 
-= Where can I find more about the plugin =
+= How do I get a userID? =
 
-http://linkpizza.com/faq/
+Drop us an email at info@linkpizza and we'll get you set up.
+
+= How can I check if it works? = 
+
+When you've activated your account and enabled the plugin find an outgoing link ( internal links are ignored ) and right click, if you check again the url at the bottom should now look like http://pzz.to/someId
 
 == Screenshots ==
-
 
 
 == Changelog ==
